@@ -1,0 +1,2 @@
+C:\Users\Benjamin\source\repos\AOC2020\c++\Day1_Part1\Debug\Day1_Part1.exe
+C:\Users\Benjamin\source\repos\AOC2020\c++\Day1_Part1\Debug\Day1_Part1.pdb

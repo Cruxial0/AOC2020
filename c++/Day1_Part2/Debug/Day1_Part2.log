@@ -1,0 +1,5 @@
+﻿  Day1_Part2.cpp
+C:\Users\Benjamin\source\repos\AOC2020\c++\Day1_Part2\Day1_Part2.cpp(15,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Benjamin\source\repos\AOC2020\c++\Day1_Part2\Day1_Part2.cpp(18,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Benjamin\source\repos\AOC2020\c++\Day1_Part2\Day1_Part2.cpp(21,34): warning C4018: '<': signed/unsigned mismatch
+  Day1_Part2.vcxproj -> C:\Users\Benjamin\source\repos\AOC2020\c++\Day1_Part2\Debug\Day1_Part2.exe

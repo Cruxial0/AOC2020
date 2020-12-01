@@ -1,0 +1,6 @@
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part2\bin\Debug\Day1_Part2.exe.config
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part2\bin\Debug\Day1_Part2.exe
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part2\bin\Debug\Day1_Part2.pdb
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part2\obj\Debug\Day1_Part2.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part2\obj\Debug\Day1_Part2.exe
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part2\obj\Debug\Day1_Part2.pdb

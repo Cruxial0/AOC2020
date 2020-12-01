@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part1\obj\Debug\Day1_Part1.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part1\obj\Debug\Day1_Part1.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part1\bin\Debug\Day1_Part1.exe.config
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part1\bin\Debug\Day1_Part1.exe
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part1\bin\Debug\Day1_Part1.pdb
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part1\obj\Debug\Day1_Part1.exe
+C:\Users\Benjamin\source\repos\AOC2020\c#\Day1_Part1\obj\Debug\Day1_Part1.pdb
